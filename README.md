@@ -1,6 +1,4 @@
 SDN-Shield: Real-Time DDoS Detection and Mitigation System
-Prepared by:
-Group 19 : DDoS Detection
 
 Overview
 A real-time DDoS (Distributed Denial of Service) detection and mitigation system built using Software-Defined Networking (SDN) principles. This system automatically detects flood attacks and blocks malicious traffic while maintaining service for legitimate users using the RYU SDN controller.
